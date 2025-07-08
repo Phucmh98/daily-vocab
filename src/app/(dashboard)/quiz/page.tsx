@@ -1,7 +1,7 @@
+import ContainerReview from "../review/components/container-review";
+
 const Home = () => {
-    return ( <div>
-        Page
-    </div> );
-}
- 
+  return <ContainerReview />;
+};
+
 export default Home;
